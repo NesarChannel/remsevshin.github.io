@@ -1,0 +1,50 @@
+body.intro {
+	width: 100%;
+	height: 100vh;
+
+	background: url("../img/hero__tire-service.jpg") center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover; 
+} 
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	font-size: 72px;
+	text-shadow: 1px 0 10px #000, 
+	0px 1px 1px #000, 
+	-1px 0 10px #000, 
+	0 -1px 10px #000;
+
+
+}
+
+div.heder {
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	height: 100vh;
+	padding: 30px;
+}
+
+div.contaner {
+	padding: 20px;
+}
+
+p.subtext {
+	font-family: 'Kaushan Script', cursive;
+	color: white;
+	text-align: center;
+	font-size: 62px;
+	text-shadow: 1px 0 10px #000, 
+	0px 1px 1px #000, 
+	-1px 0 10px #000, 
+	0 -1px 10px #000;
+}
+
+h2 {
+	text-align:center;
+	font-size: 30px;
+}
